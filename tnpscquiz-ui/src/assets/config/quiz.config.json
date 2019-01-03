@@ -1,0 +1,16 @@
+{
+    "serviceURL": "http://172.20.39.204:8080/RmsRS/rest/",
+   
+    "version":"3.0 ",
+    "copyright":"TNS 2016",
+    "documents": [
+        {
+            "name": "NGN RMS User Guide",
+            "url": "http://groups.corp.tnsi.com/techdocs/docs/development_share_smb/Documentation/Published%20Documentation/Next%20Generation%20NIP/NGN%20RMS%20User%20Guide%20V1.01.pdf"
+        },
+        {
+            "name": "VNAC Users Guide",
+            "url": "http://groups.corp.tnsi.com/techdocs/docs/development_share_smb/Documentation/Published%20Documentation/Next%20Generation%20NIP/VNAC%20User's%20Guide%20V4.11.pdf"
+        }
+    ]
+}
